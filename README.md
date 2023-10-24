@@ -5,7 +5,7 @@ IF you wish to connect to the Database via SSMS, Kindly see details below:
 
 
 
-
+For SSMS 2019
 Server name: multitracksDB.mssql.somee.com
 
 Authentication: Sql Server Authentication
@@ -32,9 +32,9 @@ To get started:
 -  **PLEASE NOTE** - There is no Need to change connection string.
 
   **API_using_EntityFramework**
--  To test API_using_Entity framework, please ensure to change connection string to your local. Change connection string within 'MyMultitrackDbContext' folder and app.settings.json file. YOu would also need to install EntityframeworkCore,EntityFrameworkTools,EntityFrameworkSqlServer from NuGet Pakage Manager.
+-  To test API_using_Entity framework, change to startup project and run.
 -  Please Note that Entities were automatically generated using Scaffold command : "Scaffold-DbContext 'YourConnectionString' Microsoft.EntityFrameworkCore.SqlServer -OutputDir Entities".
 
 **API_using_ADO.NET**
--  To test API_using_ADO.NET, select as startup project, change the connection string at WebConfig, and run project.
+-  To test API_using_ADO.NET, select as startup project and run project.
 
