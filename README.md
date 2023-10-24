@@ -1,6 +1,18 @@
 Thank you for considering my application. Below is my Documentation
 -------------------------------------------------------------------
 **DATABASE IS PUBLISHED REMOTELY, SO THERE WONT BE NEED TO CHANGE CONNECTION STRING. YOU CAN GO AHEAD AND TEST.**
+IF you wish to connect to the Database via SSMS, Kindly see details below:
+
+
+Server name: multitracksDB.mssql.somee.com
+Authentication: Sql Server Authentication
+Login: otus_SQLLogin_1
+password: uloom78tzf
+
+
+
+
+
 To get started:
 - Clone the repo locally	
 - Open the solution in Visual Studio	and Run **"Update-Package Microsoft.CodeDom.Providers.DotNetCompilerPlatform -r"** from the Package Manager Console	
