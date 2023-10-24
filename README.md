@@ -4,6 +4,8 @@ Thank you for considering my application. Below is my Documentation
 IF you wish to connect to the Database via SSMS, Kindly see details below:
 
 
+
+
 Server name: multitracksDB.mssql.somee.com
 
 Authentication: Sql Server Authentication
@@ -11,6 +13,9 @@ Authentication: Sql Server Authentication
 Login: otus_SQLLogin_1
 
 password: uloom78tzf
+
+
+
 
 
 
