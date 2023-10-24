@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Theophilus Unekwu\\Music\\.net\\API\\API_with_ADO.NET.csproj": {}
+    "C:\\Users\\Theophilus Unekwu\\Music\\new\\theo_multitracks.com-dotNet\\API\\API_with_ADO.NET.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Theophilus Unekwu\\Music\\.net\\API\\API_with_ADO.NET.csproj": {
+    "C:\\Users\\Theophilus Unekwu\\Music\\new\\theo_multitracks.com-dotNet\\API\\API_with_ADO.NET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Theophilus Unekwu\\Music\\.net\\API\\API_with_ADO.NET.csproj",
+        "projectUniqueName": "C:\\Users\\Theophilus Unekwu\\Music\\new\\theo_multitracks.com-dotNet\\API\\API_with_ADO.NET.csproj",
         "projectName": "API_with_ADO.NET",
-        "projectPath": "C:\\Users\\Theophilus Unekwu\\Music\\.net\\API\\API_with_ADO.NET.csproj",
+        "projectPath": "C:\\Users\\Theophilus Unekwu\\Music\\new\\theo_multitracks.com-dotNet\\API\\API_with_ADO.NET.csproj",
         "packagesPath": "C:\\Users\\Theophilus Unekwu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Theophilus Unekwu\\Music\\.net\\API\\obj\\",
+        "outputPath": "C:\\Users\\Theophilus Unekwu\\Music\\new\\theo_multitracks.com-dotNet\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

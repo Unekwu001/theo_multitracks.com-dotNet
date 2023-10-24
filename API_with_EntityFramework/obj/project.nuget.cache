@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TUL/4F4P4mxpA14Zm8Wj5oYNlIUQ5QHJzzCLve8rF8ghTUasesVBSuO1QVDl5DsJY3iOkAPYoOpBECXidXswWQ==",
+  "dgSpecHash": "akieyYp0BhrCVBBwHuTY5RMTAJUrmbXf9QaYhm5lXzkoJM+mWyy+XIrah0GeFUf827PuSQwBkNxzhjH2EOJtRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Theophilus Unekwu\\Music\\.net\\API_with_EntityFramework\\API_with_EntityFramework.csproj",
+  "projectFilePath": "C:\\Users\\Theophilus Unekwu\\Music\\new\\theo_multitracks.com-dotNet\\API_with_EntityFramework\\API_with_EntityFramework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Theophilus Unekwu\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Theophilus Unekwu\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

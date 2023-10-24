@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Theophilus Unekwu\\Music\\.net\\API_with_EntityFramework\\API_with_EntityFramework.csproj": {}
+    "C:\\Users\\Theophilus Unekwu\\Music\\new\\theo_multitracks.com-dotNet\\API_with_EntityFramework\\API_with_EntityFramework.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Theophilus Unekwu\\Music\\.net\\API_with_EntityFramework\\API_with_EntityFramework.csproj": {
+    "C:\\Users\\Theophilus Unekwu\\Music\\new\\theo_multitracks.com-dotNet\\API_with_EntityFramework\\API_with_EntityFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Theophilus Unekwu\\Music\\.net\\API_with_EntityFramework\\API_with_EntityFramework.csproj",
+        "projectUniqueName": "C:\\Users\\Theophilus Unekwu\\Music\\new\\theo_multitracks.com-dotNet\\API_with_EntityFramework\\API_with_EntityFramework.csproj",
         "projectName": "API_with_EntityFramework",
-        "projectPath": "C:\\Users\\Theophilus Unekwu\\Music\\.net\\API_with_EntityFramework\\API_with_EntityFramework.csproj",
+        "projectPath": "C:\\Users\\Theophilus Unekwu\\Music\\new\\theo_multitracks.com-dotNet\\API_with_EntityFramework\\API_with_EntityFramework.csproj",
         "packagesPath": "C:\\Users\\Theophilus Unekwu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Theophilus Unekwu\\Music\\.net\\API_with_EntityFramework\\obj\\",
+        "outputPath": "C:\\Users\\Theophilus Unekwu\\Music\\new\\theo_multitracks.com-dotNet\\API_with_EntityFramework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
