@@ -25,8 +25,7 @@ public partial class MultitrackDbContext : DbContext
     public virtual DbSet<Song> Songs { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseSqlServer("Data Source=THEO\\SQLEXPRESS;database=oldMultitrackDB;Integrated Security=True;Persist Security Info=False;Pooling=False;Multiple Active Result Sets=False;Connect Timeout=60;Encrypt=False;Trust Server Certificate=False;Command Timeout=0");
-
+         => optionsBuilder.UseSqlServer("workstation id=multitracksDB.mssql.somee.com;packet size=4096;user id=otus_SQLLogin_1;pwd=uloom78tzf;data source=multitracksDB.mssql.somee.com;persist security info=False;initial catalog=multitracksDB;Trust Server Certificate=True;Encrypt=False;");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
