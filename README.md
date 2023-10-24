@@ -6,6 +6,7 @@ IF you wish to connect to the Database via SSMS, Kindly see details below:
 
 
 For SSMS 2019
+
 Server name: multitracksDB.mssql.somee.com
 
 Authentication: Sql Server Authentication
