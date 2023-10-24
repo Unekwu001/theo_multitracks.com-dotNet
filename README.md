@@ -1,4 +1,5 @@
-## Welcome!
+Thank you for considering my application. Below is my Documentation
+-------------------------------------------------------------------
 To get started:
 - Clone the repo locally	
 - Open the solution in Visual Studio	and Run "Update-Package Microsoft.CodeDom.Providers.DotNetCompilerPlatform -r" from the Package Manager Console	
