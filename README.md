@@ -15,7 +15,7 @@ Login: otus_SQLLogin_1
 
 password: uloom78tzf
 
-database Name: multitracksDB
+Database Name: multitracksDB
 
 
 
