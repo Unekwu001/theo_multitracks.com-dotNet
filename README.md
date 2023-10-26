@@ -33,9 +33,12 @@ To get started:
 -  To test Web project,  
 -  Simply use this format: **"localhost/artistDetails.aspx?artistID=2"**. This will automatically generate a details page for the artist with ID of 2.
 -  **PLEASE NOTE** - There is no Need to change connection string.
+-  
 
 **API_using_Dapper**
 -  To test API_using_Dapper, change the startup project to "API_using_Dapper" then run the project.
+
+  
 
   **API_using_EntityFramework**
 -  To test API_using_Entity framework, change to startup project and run.
